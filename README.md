@@ -1,5 +1,4 @@
 # Microphone Blow Detection
-<ins>__Note: I recommend downloading the code as a zip rather than switching to this branch to test it.__<ins>
 
 ## Installation
 Ensure your environment has Python and Pip installed.
